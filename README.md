@@ -37,12 +37,19 @@ The project is organized in a modular package structure under `src/main/java/com
 
 com/ingestor/
 ├── config # Spring and RabbitMQ configuration classes
+
 ├── consumer # RabbitMQ consumers for processing messages
+
 ├── model # JPA entity classes (e.g., User.java)
+
 ├── producer # RabbitMQ producers to send batch messages
+
 ├── repository # Spring Data JPA repositories
+
 ├── services # Business logic and CSV processing services
+
 ├── watcher # Directory watcher to detect CSV files
+
 └── SpringbootDataIngestorApplication.java # Main Spring Boot application entry
 
 
