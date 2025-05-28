@@ -1,8 +1,8 @@
+com\ingestor\SpringbootDataIngestorApplication.class
 com\ingestor\config\RabbitMQConfig.class
 com\ingestor\config\TaskExecutorConfig.class
 com\ingestor\services\UserServices.class
-com\ingestor\springboot_data_ingestor\SpringbootDataIngestorApplication.class
-com\ingestor\consumer\CsvProducer.class
+com\ingestor\consumer\CsvConsumer.class
 com\ingestor\producer\CsvProducer.class
 com\ingestor\watcher\DirectoryWatcher.class
 com\ingestor\repository\UserRepository.class

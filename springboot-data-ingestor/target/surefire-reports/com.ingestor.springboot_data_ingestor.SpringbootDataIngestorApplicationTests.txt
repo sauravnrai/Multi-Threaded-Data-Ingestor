@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.ingestor.springboot_data_ingestor.SpringbootDataIngestorApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.15 s -- in com.ingestor.springboot_data_ingestor.SpringbootDataIngestorApplicationTests
